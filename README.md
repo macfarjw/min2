@@ -1,1 +1,1 @@
-Mini Project 2 for ECE 461
+**Mini Project 2 for ECE 461**
